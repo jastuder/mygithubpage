@@ -1,3 +1,3 @@
-# mygithubpage
+# personal Webpage
 
 Currently in progres...
